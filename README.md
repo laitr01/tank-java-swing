@@ -1,1 +1,1 @@
-# A game for teaching java swing.
+# A game base on Tank 1990 for teaching java swing.
